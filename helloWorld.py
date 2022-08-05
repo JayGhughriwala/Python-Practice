@@ -7,3 +7,5 @@ print('Hello World This is my first Python Program \n')
 # without the new line this method was used
 print("This is a first line ", end="")
 print(" This is print without the new line")
+
+
