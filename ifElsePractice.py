@@ -38,5 +38,5 @@
 # elif age > 10 & age <= 18:
 #     print("You are not available to drive a vehicle")
 # else:
-#     print("You are not eligible to drive a vehicle")
+#     print("You are not eligible to drive a vehice")
 
