@@ -1,0 +1,10 @@
+print("This is the practice of the open file as a block mode")
+with open("scratch.txt", "r+") as f:
+    f.write("This is the append mode written in the file using a with function")
+    f.seek(0)
+    print(f.read())
+    print("\n")
+    f.write("Again Writing in the file")
+    print("\n")
+    print(f.read())
+    f.close()

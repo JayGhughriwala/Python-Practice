@@ -1,5 +1,1 @@
-jkgjfsklglkdg
-fsdfjkmf
-jhsdkfsdf
-fjksdf
-This is the append mode written in the file using a seek functionThis is the append mode written in the file using a seek functionThis is the append mode written in the file using a seek functionThis is the append mode written in the file using a seek function
+This is the append mode written in the file using a with functionde written in the file using a seek functionThis is the append mode written in the file using a seek functionThis is the append mode written in the file using a seek functionThis is the append mode written in the file using a seek functionThis is the append mode written in the file using a with functionAgain Writing in the fileThis is the append mode written in the file using a with functionAgain Writing in the fileThis is the append mode written in the file using a with functionAgain Writing in the fileAgain Writing in the fileAgain Writing in the file
